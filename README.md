@@ -12,6 +12,7 @@
 1. C sharp 발전 과정
 
 
+## [Book2 - 생능 출판](https://github.com/haji8-thehaji/lecture-2026-1H/tree/main/Book)
 ## 참고 교재
 1. [폴리텍 도서관](https://kopo.dkyobobook.co.kr/) : https://kopo.dkyobobook.co.kr/
 2. C# 프로그래밍 입문 - 생능 출판사
