@@ -1,6 +1,6 @@
 # 2026 1H C# 강의 - 하지양
 
-## url : 
+## url : https://url.kr/h19l4e
 
 ### [강의 게시판](https://github.com/haji8-thehaji/lecture-2026-1H/issues)
 ### [강의 노트](https://haji8-thehaji.github.io/lecture-2026-1H/notes/)
